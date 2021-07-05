@@ -1,0 +1,9 @@
+{
+  "name": "clone.js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
